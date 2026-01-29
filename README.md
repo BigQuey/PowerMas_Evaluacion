@@ -2,6 +2,11 @@
 
 Este proyecto es una solución Full Stack para la gestión de beneficiarios, desarrollada como parte del caso de evaluación técnica
 
+## Demo del Sistema
+
+https://github.com/user-attachments/assets/7d2794f7-ff4e-4380-ab78-718a07e6fb05
+
+
 ## Tecnologías
 
 * **Frontend:** React + TypeScript + TailwindCSS
