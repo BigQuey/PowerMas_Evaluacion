@@ -16,8 +16,8 @@ https://github.com/user-attachments/assets/7d2794f7-ff4e-4380-ab78-718a07e6fb05
 ## Pre-requisitos
 
 * Node.js (v20+)
-* .NET SDK 8.0
-* SQL Server (Local o Docker)
+* .NET SDK 9.0 / 10.0
+* SQL Server
 
 ## Instrucciones de Instalación
 
